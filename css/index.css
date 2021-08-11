@@ -1,0 +1,79 @@
+/* 一括設定 */
+body {
+	font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+}
+::selection {
+	background-color: rgba(58, 39, 61, 0.5);
+	color: white;
+}
+
+/* ナビゲーション */
+.navbar {
+	/* height: 75px; */
+	background: rgba(255, 255, 255, 0.5);
+}
+.navShowClass {
+	animation: DownAnime 0.5s forwards;
+}
+@keyframes DownAnime{
+  from {
+    opacity: 0;
+  transform: translateY(-75px);
+  }
+  to {
+    opacity: 1;
+  transform: translateY(0);
+  }
+}
+.navHideClass {
+	animation: UpAnime 0.5s forwards;
+}
+@keyframes UpAnime{
+  from {
+    opacity: 1;
+  transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+  transform: translateY(-75px);
+  }
+}
+
+/* コンテナ一括設定 */
+.container {
+	padding-top: 75px;
+}
+
+/* h2一括設定 */
+
+
+
+
+/* カルーセル */
+.carousel-inner {
+	max-height: 100vh;
+}
+.carousel-item img{
+	min-height: 50vh;
+	object-fit: cover;
+}
+.carousel-item::after{
+	content: '';
+	display:block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(0, 0, 0, 0.25);
+}
+
+/* ロゴ */
+.main-logo {
+	width: 90%;
+	color: white;
+	z-index: 2;
+}
+.main-logo h1{
+	writing-mode: vertical-rl;
+}
