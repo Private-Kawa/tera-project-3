@@ -71,3 +71,9 @@ body {
 .main-logo h1{
 	writing-mode: vertical-rl;
 }
+
+.card-img-custom {
+	min-height: 180px;
+	padding: 0 10px;
+	background: var(--bs-light);
+}

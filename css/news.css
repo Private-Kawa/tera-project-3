@@ -4,8 +4,11 @@ body {
 	color: var(--bs-dark);
 	font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
 }
+main {
+	min-height: 100vh;
+}
+
 ::selection {
-	/* background-color: rgba(58, 39, 61, 0.5); */
 	background-color: var(--bs-gray);
 	color: var(--bs-light);
 }
