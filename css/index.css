@@ -1,13 +1,12 @@
 /* 一括設定 */
 body {
-	background-color: var(--bs-light);
-	color: var(--bs-dark);
+	background-color: rgb(255, 250, 247);
+	color: rgb(61, 46, 35);
 	font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
 }
 ::selection {
-	/* background-color: rgba(58, 39, 61, 0.5); */
-	background-color: var(--bs-gray);
-	color: var(--bs-light);
+	background-color: rgba(105, 93, 85, 0.5);
+	color: #fff;
 }
 
 /* ナビゲーション */
@@ -65,7 +64,7 @@ body {
 /* ロゴ */
 .main-logo {
 	width: 90%;
-	color: white;
+	color: #fff;
 	z-index: 2;
 }
 .main-logo h1{
@@ -76,4 +75,9 @@ body {
 	min-height: 180px;
 	padding: 0 10px;
 	background: var(--bs-light);
+}
+
+/* navbar */
+.navbar {
+	background: rgb(255, 250, 247);
 }
