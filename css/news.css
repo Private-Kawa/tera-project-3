@@ -1,12 +1,12 @@
 /* 一括設定 */
 body {
-	background-color: rgb(255, 250, 247);
+	background-color: rgb(255, 255, 255);
 	color: rgb(61, 46, 35);
 	font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
 }
 ::selection {
-	background-color: rgba(105, 93, 85, 0.5);
-	color: #fff;
+	background-color: rgb(255, 255, 255);
+	color: rgb(187, 155, 113);
 }
 
 main {
@@ -15,5 +15,5 @@ main {
 
 /* navbar */
 .navbar {
-	background: rgb(255, 250, 247);
+	background: rgb(255, 255, 255);
 }
