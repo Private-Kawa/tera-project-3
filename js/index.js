@@ -3,8 +3,6 @@
 function navAnimation() {
 	let scroll = $(window).scrollTop();
 	let nav = document.getElementById("navBar");
-	// console.log(scroll);
-	// console.log(nav);
 
 	$(nav).addClass("navHideClass")
 
