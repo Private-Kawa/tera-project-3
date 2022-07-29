@@ -4,10 +4,12 @@ body {
 	color: rgb(37, 28, 21);
 	font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
 }
+
 /* navbar */
 .navbar {
 	background: rgb(255, 255, 255);
 }
+
 ::selection {
 	background-color: rgb(139, 109, 80);
 	color: #fff;
@@ -17,28 +19,33 @@ body {
 .navShowClass {
 	animation: DownAnime 0.5s forwards;
 }
-@keyframes DownAnime{
-  from {
-    opacity: 0;
-  transform: translateY(-75px);
-  }
-  to {
-    opacity: 1;
-  transform: translateY(0);
-  }
+
+@keyframes DownAnime {
+	from {
+		opacity: 0;
+		transform: translateY(-75px);
+	}
+
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
 }
+
 .navHideClass {
 	animation: UpAnime 0.5s forwards;
 }
-@keyframes UpAnime{
-  from {
-    opacity: 1;
-  transform: translateY(0);
-  }
-  to {
-    opacity: 0;
-  transform: translateY(-75px);
-  }
+
+@keyframes UpAnime {
+	from {
+		opacity: 1;
+		transform: translateY(0);
+	}
+
+	to {
+		opacity: 0;
+		transform: translateY(-75px);
+	}
 }
 
 /* コンテナ一括設定 */
@@ -50,13 +57,15 @@ body {
 .carousel-inner {
 	max-height: 100vh;
 }
-.carousel-item img{
+
+.carousel-item img {
 	min-height: 50vh;
 	object-fit: cover;
 }
-.carousel-item::after{
+
+.carousel-item::after {
 	content: '';
-	display:block;
+	display: block;
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -71,7 +80,8 @@ body {
 	color: #fff;
 	z-index: 2;
 }
-.main-logo h1{
+
+.main-logo h1 {
 	writing-mode: vertical-rl;
 }
 
