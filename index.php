@@ -114,15 +114,16 @@
 				<div class="d-flex flex-column col-sm-6">
 					<div class="my-auto">
 						<p class="bg-white p-3 fs-5">
-							2022年7月<br><br>
-							人間本当の働きができる人生の<br>
-							花盛りは七十歳からです<br>
-							寂聴师
+							2022年8月<br><br>
+							人生は長いようで<br>
+							「あっ」という間<br>
+							念仏と共に<br>
+							夢を持って生きよう
 						</p>
 					</div>
 				</div>
 				<div class="col-sm-6 align-self-center min-vh-50">
-					<img src="img/word/202207.jpg" class="img-fluid" alt="自分の命は自分一人のものだけではないということを自覚して大切にしましょう">
+					<img src="img/word/202208.jpg" class="img-fluid" alt="人生は長いようで「あっ」という間 念仏と共に夢を持って生きよう">
 				</div>
 			</div>
 		</div>
@@ -131,33 +132,38 @@
 		<div id="newsScroll" class="container">
 			<h2 class="fw-light border-bottom">お知らせ</h2>
 			<div class="row">
-
 				<?php if (date('Y-m-d H:i:s') < '2022-08-01 00:00:00') : ?>
 				<?php else : ?>
-					<div class="col-md-2"></div>
-					<div class="col-md-8 mx-auto my-2">
-						<div class="card">
-							<a href="src/news/20220807_bon.pdf">
-								<img src="img/news/20220807_bon.jpg" class="card-img-top border" alt="2022年盆会法要の案内">
-							</a>
-							<div class="card-body">
-								<p class="card-text">2022.08.01</p>
-								<h5 class="card-title">2022年盆会法要の案内</h5>
-								<p class="card-text">
-									2022年盆会法要を8月7日(日)勤修致します。<br>
-									感染症対策のため、ソーシャルディスタンスの確保、消毒の実施を徹底し勤修する予定です。今回より法話を再開する予定ですので、ぜひご参拝くださいませ。
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-2"></div>
 				<?php endif; ?>
-
-
-
 				<div class="col-md-4 mx-auto my-2">
 					<div class="card">
-						<img src="img/word/202207.jpg" class="card-img-top" alt="自分の命は自分一人のものだけではないということを自覚して大切にしましょう">
+						<a href="src/news/20220807_bon.pdf">
+							<img src="img/news/20220807_bon.jpg" class="card-img-top border" alt="人生は長いようで「あっ」という間 念仏と共に夢を持って生きよう">
+						</a>
+						<div class="card-body">
+							<p class="card-text">2022.08.01</p>
+							<h5 class="card-title">月のことば更新</h5>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 mx-auto my-2">
+					<div class="card">
+						<a href="src/news/20220807_bon.pdf">
+							<img src="img/news/20220807_bon.jpg" class="card-img-top border" alt="2022年盆会法要の案内">
+						</a>
+						<div class="card-body">
+							<p class="card-text">2022.08.01</p>
+							<h5 class="card-title">2022年盆会法要の案内</h5>
+							<p class="card-text">
+								2022年盆会法要を8月7日(日)勤修致します。<br>
+								感染症対策のため、ソーシャルディスタンスの確保、消毒の実施を徹底し勤修する予定です。今回より法話を再開する予定ですので、ぜひご参拝くださいませ。
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 mx-auto my-2">
+					<div class="card">
+						<img src="img/word/202207.jpg" class="card-img-top" alt="人間本当の働きができる人生の花盛りは七十歳からです寂聴師">
 						<div class="card-body">
 							<p class="card-text">2022.07.01</p>
 							<h5 class="card-title">月のことば更新</h5>
@@ -204,28 +210,6 @@
 						</div>
 					</div>
 				</div>
-
-				<?php if (date('Y-m-d H:i:s') < '2022-08-01 00:00:00') : ?>
-					<div class="col-md-4 my-2">
-						<div class="card">
-							<img src="img/news/20220301.jpg" class="card-img-top" alt="2022年春彼岸会の勤修の予定">
-							<div class="card-body">
-								<p class="card-text">2022.03.01</p>
-								<h5 class="card-title">2022年春彼岸会の勤修の予定</h5>
-								<p class="card-text">
-									本年の春のお彼岸につきまして、<span class="fw-bold text-danger">3月21日（月）</span>にお勤めを致します。<br>
-									感染症対策のため、規模を縮小して勤修致します。
-								</p>
-							</div>
-						</div>
-					</div>
-				<?php else : ?>
-				<?php endif; ?>
-
-
-
-
-
 			</div>
 		</div>
 
