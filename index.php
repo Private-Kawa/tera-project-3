@@ -138,7 +138,7 @@
 				<div class="col-md-4 mx-auto my-2">
 					<div class="card">
 						<a href="src/news/20220807_bon.pdf">
-							<img src="img/word/202108.jpg" class="card-img-top border" alt="人生は長いようで「あっ」という間 念仏と共に夢を持って生きよう">
+							<img src="img/word/202208.jpg" class="card-img-top border" alt="人生は長いようで「あっ」という間 念仏と共に夢を持って生きよう">
 						</a>
 						<div class="card-body">
 							<p class="card-text">2022.08.01</p>
