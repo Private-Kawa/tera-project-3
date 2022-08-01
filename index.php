@@ -197,19 +197,6 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4 mx-auto my-2">
-					<div class="card">
-						<img src="img/news/20220321.jpg" class="card-img-top" alt="2022年春彼岸会の勤修">
-						<div class="card-body">
-							<p class="card-text">2022.03.21</p>
-							<h5 class="card-title">2022年春彼岸会の勤修</h5>
-							<p class="card-text">
-								2022年春彼岸会を勤修致しました。<br>
-								感染症対策のため、ソーシャルディスタンスの確保、消毒の実施を徹底し勤修致しました。<br>
-							</p>
-						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 
