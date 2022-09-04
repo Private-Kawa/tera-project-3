@@ -8,7 +8,8 @@
 	<title>京都大宮花屋町の光隆寺 | 浄土真宗本願寺派 光隆寺</title>
 	<!-- SEO -->
 	<meta name="keywords" content="浄土真宗,京都,寺院,本願寺派,浄土真宗本願寺派,本願寺,真宗">
-	<meta name="description" content="浄土真宗本願寺派の光隆寺の公式ホームページです。寺院前に掲示している法語、日々の勤行の様子などを掲載しております。本寺は1670年に能化知空師により開かれ、現住職は第12代の河原知広が勤めております。">
+	<meta name="description"
+		content="浄土真宗本願寺派の光隆寺の公式ホームページです。寺院前に掲示している法語、日々の勤行の様子などを掲載しております。本寺は1670年に能化知空師により開かれ、現住職は第12代の河原知広が勤めております。">
 	<!-- og -->
 	<meta property="og:url" content="https://sinsyu-kouryuji.com/">
 	<meta property="og:title" content="京都大宮花屋町の光隆寺 | 浄土真宗本願寺派 光隆寺">
@@ -23,9 +24,11 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/earlyaccess/hannari.css" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500&display=swap"
+		rel="stylesheet">
 	<!-- Bootstrap CSS -->
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+		integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 	<!-- Bootstrap Icon CSS -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
 	<!-- CSS -->
@@ -44,7 +47,9 @@
 					<img src="img/logo/logo3.png" alt="浄土真宗本願寺派光隆寺" width="200" height="50">
 				</a>
 				<!-- ハンバーガーボタン -->
-				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+					data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+					aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<!-- navアイテム -->
@@ -114,16 +119,16 @@
 				<div class="d-flex flex-column col-sm-6">
 					<div class="my-auto">
 						<p class="bg-white p-3 fs-5">
-							2022年8月<br><br>
-							人生は長いようで<br>
-							「あっ」という間<br>
-							念仏と共に<br>
-							夢を持って生きよう
+							2022年9月<br><br>
+							生きたくても<br>
+							死なねばならぬ<br>
+							死にたくても<br>
+							生きねばならぬ
 						</p>
 					</div>
 				</div>
 				<div class="col-sm-6 align-self-center min-vh-50">
-					<img src="img/word/202208.jpg" class="img-fluid" alt="人生は長いようで「あっ」という間 念仏と共に夢を持って生きよう">
+					<img src="img/word/202209.jpg" class="img-fluid" alt="生きたくても死なねばならぬ死にたくても生きねばならぬ">
 				</div>
 			</div>
 		</div>
@@ -138,7 +143,19 @@
 				<div class="col-md-4 mx-auto my-2">
 					<div class="card">
 						<a href="src/news/20220807_bon.pdf">
-							<img src="img/word/202208.jpg" class="card-img-top border" alt="人生は長いようで「あっ」という間 念仏と共に夢を持って生きよう">
+							<img src="img/word/202209.jpg" class="card-img-top border" alt="生きたくても死なねばならぬ死にたくても生きねばならぬ">
+						</a>
+						<div class="card-body">
+							<p class="card-text">2022.09.01</p>
+							<h5 class="card-title">月のことば更新</h5>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 mx-auto my-2">
+					<div class="card">
+						<a href="src/news/20220807_bon.pdf">
+							<img src="img/word/202208.jpg" class="card-img-top border"
+								alt="人生は長いようで「あっ」という間 念仏と共に夢を持って生きよう">
 						</a>
 						<div class="card-body">
 							<p class="card-text">2022.08.01</p>
@@ -181,18 +198,10 @@
 				</div>
 				<div class="col-md-4 mx-auto my-2">
 					<div class="card">
-						<img src="img/word/202205.jpg" class="card-img-top" alt="誰が風をみたでしょう 僕もあなたも見やしない けれど木の葉をふるわせて 風は通りぬけてゆく。">
+						<img src="img/word/202205.jpg" class="card-img-top"
+							alt="誰が風をみたでしょう 僕もあなたも見やしない けれど木の葉をふるわせて 風は通りぬけてゆく。">
 						<div class="card-body">
 							<p class="card-text">2022.05.01</p>
-							<h5 class="card-title">月のことば更新</h5>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 mx-auto my-2">
-					<div class="card">
-						<img src="img/word/202204.jpg" class="card-img-top" alt="梅は匂ひよ　桜は花よ　人は心よ">
-						<div class="card-body">
-							<p class="card-text">2022.04.01</p>
 							<h5 class="card-title">月のことば更新</h5>
 						</div>
 					</div>
@@ -218,7 +227,9 @@
 		<!-- 交通案内 -->
 		<div id="accessScroll" class="container">
 			<h2 class="fw-light border-bottom">交通案内</h2>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8141.619382815559!2d135.744567549931!3d34.99302516413231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001061f6ca448a1%3A0xbae3b64799786152!2z5rWE5Zyf55yf5a6X5pys6aGY5a-65rS-IOW7o-mZteWxsSDlhYnpmoblr7o!5e0!3m2!1sja!2sjp!4v1628585646772!5m2!1sja!2sjp" width="100%" height="400px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+			<iframe
+				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8141.619382815559!2d135.744567549931!3d34.99302516413231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001061f6ca448a1%3A0xbae3b64799786152!2z5rWE5Zyf55yf5a6X5pys6aGY5a-65rS-IOW7o-mZteWxsSDlhYnpmoblr7o!5e0!3m2!1sja!2sjp!4v1628585646772!5m2!1sja!2sjp"
+				width="100%" height="400px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 			<div class="mx-auto p-2">
 				<dl>
 					<dt class="fs-4">所在地</dt>
@@ -271,9 +282,12 @@
 
 </body>
 <!-- Bootstrap Bundle with Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+	integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous">
+</script>
 <!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+	integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script src="js/index.js"></script>
 
 </html>
