@@ -142,7 +142,22 @@
 				<?php endif; ?>
 				<div class="col-md-4 mx-auto my-2">
 					<div class="card">
-						<a href="src/news/20220807_bon.pdf">
+						<a href="src/news/20220923_higan.pdf">
+							<img src="img/news/20220923_higan.jpg" class="card-img-top border" alt="2022年秋彼岸会法要の案内">
+						</a>
+						<div class="card-body">
+							<p class="card-text">2022.09.14</p>
+							<h5 class="card-title">2022年秋彼岸会法要の案内</h5>
+							<p class="card-text">
+								2022年秋彼岸会法要を9月23日(金)に勤修致します。<br>
+								感染症対策のため、ソーシャルディスタンスの確保、消毒の実施を徹底し勤修する予定です。
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 mx-auto my-2">
+					<div class="card">
+						<a href="img/word/202209.jpg">
 							<img src="img/word/202209.jpg" class="card-img-top border" alt="生きたくても死なねばならぬ死にたくても生きねばならぬ">
 						</a>
 						<div class="card-body">
@@ -153,7 +168,7 @@
 				</div>
 				<div class="col-md-4 mx-auto my-2">
 					<div class="card">
-						<a href="src/news/20220807_bon.pdf">
+						<a href="img/word/202208.jpg">
 							<img src="img/word/202208.jpg" class="card-img-top border"
 								alt="人生は長いようで「あっ」という間 念仏と共に夢を持って生きよう">
 						</a>
@@ -192,16 +207,6 @@
 						<img src="img/word/202206.jpg" class="card-img-top" alt="自分の命は自分一人のものだけではないということを自覚して大切にしましょう">
 						<div class="card-body">
 							<p class="card-text">2022.06.01</p>
-							<h5 class="card-title">月のことば更新</h5>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 mx-auto my-2">
-					<div class="card">
-						<img src="img/word/202205.jpg" class="card-img-top"
-							alt="誰が風をみたでしょう 僕もあなたも見やしない けれど木の葉をふるわせて 風は通りぬけてゆく。">
-						<div class="card-body">
-							<p class="card-text">2022.05.01</p>
 							<h5 class="card-title">月のことば更新</h5>
 						</div>
 					</div>
