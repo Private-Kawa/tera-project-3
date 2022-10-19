@@ -134,6 +134,21 @@
 				<?php endif; ?>
 				<div class="col-md-4 mx-auto my-2">
 					<div class="card">
+						<a href="src/news/20221113_hou.pdf">
+							<img src="img/news/20221113_hou.jpg" class="card-img-top border" alt="2022年秋彼岸会法要の案内">
+						</a>
+						<div class="card-body">
+							<p class="card-text">2022.10.19</p>
+							<h5 class="card-title">2022年報恩講法要の御案内</h5>
+							<p class="card-text">
+								2022年報恩講法要を11月13日(日)に勤修致します。<br>
+								感染症対策のため、ソーシャルディスタンスの確保、消毒の実施を徹底し勤修する予定です。
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 mx-auto my-2">
+					<div class="card">
 						<a href="img/word/202210.jpg">
 							<img src="img/word/202210.jpg" class="card-img-top border" alt="目の前のことを一生懸命することが人間の最良の生き方だということです">
 						</a>
@@ -150,7 +165,7 @@
 						</a>
 						<div class="card-body">
 							<p class="card-text">2022.09.14</p>
-							<h5 class="card-title">2022年秋彼岸会法要の案内</h5>
+							<h5 class="card-title">2022年秋彼岸会法要の御案内</h5>
 							<p class="card-text">
 								2022年秋彼岸会法要を9月23日(金)に勤修致します。<br>
 								感染症対策のため、ソーシャルディスタンスの確保、消毒の実施を徹底し勤修する予定です。
@@ -192,15 +207,6 @@
 								2022年盆会法要を8月7日(日)に勤修致します。<br>
 								感染症対策のため、ソーシャルディスタンスの確保、消毒の実施を徹底し勤修する予定です。今回より法話を再開する予定ですので、ぜひご参拝くださいませ。
 							</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 mx-auto my-2">
-					<div class="card">
-						<img src="img/word/202207.jpg" class="card-img-top" alt="人間本当の働きができる人生の花盛りは七十歳からです寂聴師">
-						<div class="card-body">
-							<p class="card-text">2022.07.01</p>
-							<h5 class="card-title">月のことば更新</h5>
 						</div>
 					</div>
 				</div>
