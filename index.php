@@ -206,7 +206,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4 mx-auto my-2">
+				<!-- <div class="col-md-4 mx-auto my-2">
 					<div class="card">
 						<a href="src/news/20220807_bon.pdf">
 							<img src="img/news/20220807_bon.jpg" class="card-img-top border" alt="2022年盆会法要の案内">
@@ -220,7 +220,7 @@
 							</p>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 
