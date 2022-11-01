@@ -114,13 +114,13 @@
 				<div class="d-flex flex-column col-sm-6">
 					<div class="my-auto">
 						<p class="bg-white p-3 fs-5">
-							2022年10月<br><br>
-							目の前のことを<br>一生懸命することが<br>人間の最良の<br>生き方だということです
+							2022年11月<br><br>
+							「生まれてきてよかった」と。<br>今日を生きる。
 						</p>
 					</div>
 				</div>
 				<div class="col-sm-6 align-self-center min-vh-50">
-					<img src="img/word/202210.jpg" class="img-fluid" alt="目の前のことを一生懸命することが人間の最良の生き方だということです">
+					<img src="img/word/202211.jpg" class="img-fluid" alt="">
 				</div>
 			</div>
 		</div>
@@ -132,6 +132,17 @@
 				<?php if (date('Y-m-d H:i:s') < '2022-08-01 00:00:00') : ?>
 				<?php else : ?>
 				<?php endif; ?>
+				<div class="col-md-4 mx-auto my-2">
+					<div class="card">
+						<a href="img/word/202211.jpg">
+							<img src="img/word/202211.jpg" class="card-img-top border" alt="">
+						</a>
+						<div class="card-body">
+							<p class="card-text">2022.11.01</p>
+							<h5 class="card-title">11月のことば更新</h5>
+						</div>
+					</div>
+				</div>
 				<div class="col-md-4 mx-auto my-2">
 					<div class="card">
 						<a href="src/news/20221113_hou.pdf">
