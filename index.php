@@ -206,21 +206,6 @@
 						</div>
 					</div>
 				</div>
-				<!-- <div class="col-md-4 mx-auto my-2">
-					<div class="card">
-						<a href="src/news/20220807_bon.pdf">
-							<img src="img/news/20220807_bon.jpg" class="card-img-top border" alt="2022年盆会法要の案内">
-						</a>
-						<div class="card-body">
-							<p class="card-text">2022.08.01</p>
-							<h5 class="card-title">2022年盆会法要の案内</h5>
-							<p class="card-text">
-								2022年盆会法要を8月7日(日)に勤修致します。<br>
-								感染症対策のため、ソーシャルディスタンスの確保、消毒の実施を徹底し勤修する予定です。今回より法話を再開する予定ですので、ぜひご参拝くださいませ。
-							</p>
-						</div>
-					</div>
-				</div> -->
 			</div>
 		</div>
 
@@ -232,10 +217,15 @@
 					<img src="img/about/about01.jpg" class="img-fluid" alt="光隆寺">
 				</div>
 				<div class="col-md-6 my-auto py-4">
-					光隆寺は1670年に能化知空師により開かれた浄土真宗本願寺派の寺院です。
-					本寺初代の知空は学林と呼ばれる浄土真宗の教えを統べる組織のトップにおられた僧侶です。<br>
-					現住職は、第十二代の河原知広が勤めております。
-					寺内の活動だけでなく、保護司や教誨師（受刑者の更生保護）、またボランティア活動を行い幅広く社会に貢献しております。</div>
+					<p>
+						光隆寺は1670年に知空により開かれた浄土真宗本願寺派の寺院です。<br>
+						本寺を建立した知空は、僧侶の養成機関である学林の第二代能化として、学林の所化を統べておられた僧侶です。
+					</p>
+					<p>
+						現住職は、第十二代の河原知広が勤めております。
+						寺内の活動だけでなく、保護司や教誨師（受刑者の更生保護）、またボランティア活動を行い幅広く社会に貢献しております。
+					</p>
+				</div>
 			</div>
 		</div>
 
@@ -287,7 +277,7 @@
 				<small>©
 					<script>
 						document.write(new Date().getFullYear())
-					</script> 光隆寺 更新中
+					</script> 浄土真宗本願寺派 光隆寺
 				</small>
 			</div>
 		</div>
