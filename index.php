@@ -40,7 +40,7 @@
 		<nav id="navBar" class="navbar fixed-top navbar-expand-lg navbar-light">
 			<div class="container-fluid">
 				<!-- navタイトル -->
-				<a class="navbar-brand" href="index.html">
+				<a class="navbar-brand" href="/">
 					<img src="img/logo/logo3.png" alt="浄土真宗本願寺派光隆寺" width="200" height="50">
 				</a>
 				<!-- ハンバーガーボタン -->
