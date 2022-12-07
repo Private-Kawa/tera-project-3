@@ -114,13 +114,13 @@
 				<div class="d-flex flex-column col-sm-6">
 					<div class="my-auto">
 						<p class="bg-white p-3 fs-5">
-							2022年11月<br><br>
-							「生まれてきてよかった」と。<br>今日を生きる。
+							2022年12月<br><br>
+							ほとけさまの光に照らされ<br>すべての「いのち」輝く
 						</p>
 					</div>
 				</div>
 				<div class="col-sm-6 align-self-center min-vh-50">
-					<img src="img/word/202211.jpg" class="img-fluid" alt="">
+					<img src="img/word/202212.jpg" class="img-fluid" alt="ほとけさまの光に照らされすべての「いのち」輝く">
 				</div>
 			</div>
 		</div>
@@ -129,13 +129,21 @@
 		<div id="newsScroll" class="container">
 			<h2 class="fw-light border-bottom">お知らせ</h2>
 			<div class="row">
-				<?php if (date('Y-m-d H:i:s') < '2022-08-01 00:00:00') : ?>
-				<?php else : ?>
-				<?php endif; ?>
+				<div class="col-md-4 mx-auto my-2">
+					<div class="card">
+						<a href="img/word/202212.jpg">
+							<img src="img/word/202212.jpg" class="card-img-top border" alt="ほとけさまの光に照らされすべての「いのち」輝く">
+						</a>
+						<div class="card-body">
+							<p class="card-text">2022.12.01</p>
+							<h5 class="card-title">12月のことば更新</h5>
+						</div>
+					</div>
+				</div>
 				<div class="col-md-4 mx-auto my-2">
 					<div class="card">
 						<a href="img/word/202211.jpg">
-							<img src="img/word/202211.jpg" class="card-img-top border" alt="">
+							<img src="img/word/202211.jpg" class="card-img-top border" alt="「生まれてきてよかった」と。今日を生きる。">
 						</a>
 						<div class="card-body">
 							<p class="card-text">2022.11.01</p>
@@ -191,17 +199,6 @@
 						</a>
 						<div class="card-body">
 							<p class="card-text">2022.09.01</p>
-							<h5 class="card-title">月のことば更新</h5>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 mx-auto my-2">
-					<div class="card">
-						<a href="img/word/202208.jpg">
-							<img src="img/word/202208.jpg" class="card-img-top border" alt="人生は長いようで「あっ」という間 念仏と共に夢を持って生きよう">
-						</a>
-						<div class="card-body">
-							<p class="card-text">2022.08.01</p>
 							<h5 class="card-title">月のことば更新</h5>
 						</div>
 					</div>
