@@ -1,11 +1,9 @@
-'use strict';
-
+// ナビゲーションアニメーション
 function navAnimation() {
 	let scroll = $(window).scrollTop();
 	let nav = document.getElementById("navBar");
 
 	$(nav).addClass("navHideClass")
-
 	if (scroll > 0) {
 		$(nav).removeClass("navHideClass");
 		$(nav).addClass("navShowClass");
@@ -13,17 +11,9 @@ function navAnimation() {
 		$(nav).removeClass("navShowClass");
 		$(nav).addClass("navHideClass");
 	}
-	
 }
 
-$(window).on('load', function () {
+// ロード時、スクロール時に実行
+$(window).on('load scroll', function () {
 	navAnimation();
 });
-
-$(window).scroll(function () {
-  navAnimation();
-});
-
-
-
-
